@@ -9,13 +9,13 @@ Todo por **diversion**
 Una vez terminado el programa, se guarda con extension ´.c´
 Luego en la terminal se escribe
 
-´´´bash
+```bash
 $ gcc -o run programa.c
-´´´
+```
 
 Una vez compilado escribe 
 
-´´´bash
+```bash
 $ ./run
-´´´
+```
 **Si tienes VScode solo instala la extension C/C++**
