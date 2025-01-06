@@ -2,7 +2,7 @@
 
 Este es un repositorio privado en donde tengo algunos ejercicios hechos en C y C++
 Esto es netamente para guardar mis cosas y documentar mi avance.
-Todo por **diversion** 
+Todo por **diversion**.
 
 **Ejecutar con el compilador GCC**
 
