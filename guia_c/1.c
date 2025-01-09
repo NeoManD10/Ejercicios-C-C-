@@ -1,9 +1,9 @@
 /*Escriba un algoritmo que lea 10 números e imprima sólo los números positivos                             
   En este caso usaremos solo 10 numeros */  
 
-#include<stdlib.h>
+#include <stdlib.h>
 #include <stdio.h>
-#include<time.h>
+#include <time.h>
   
 int main(){
     int min=-10, max=10,i=1,j=1;

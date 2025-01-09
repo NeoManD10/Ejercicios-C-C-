@@ -5,7 +5,7 @@ primer dígito de cada uno de ellos. Ej. Se ingresan 231, 140, 105, 2341, 9876, 
 #include <stdio.h>
 
 int main(){
-    int i,num[i],res=0,contador;
+    int i,num[10],res=0,contador;
 
     for(i = 0; i < 10; i++){
         printf("Ingresa un numero mayor que 100: "); scanf("%i", &num[i]);
