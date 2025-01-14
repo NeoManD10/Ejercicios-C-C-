@@ -1,0 +1,1 @@
+/*Crea un programa que reciba una matriz de N x M y calcule su transpuesta.*/
