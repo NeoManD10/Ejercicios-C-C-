@@ -1,3 +1,6 @@
+/*Crea un programa que funcione como un intérprete de comandos simple, aceptando entradas como ls, cd y cat e implementando una 
+funcionalidad básica para cada comando.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
