@@ -1,6 +1,6 @@
 # Ejercicios-C-C-
 
-Este es un repositorio privado en donde tengo algunos ejercicios hechos en C y C++
+Este es un repositorio privado en donde tengo algunos ejercicios hechos en C
 Esto es netamente para guardar mis cosas y documentar mi avance.
 Todo por **diversion**.
 
@@ -18,4 +18,4 @@ Una vez compilado escribe
 ```bash
 $ ./run
 ```
-**Si tienes VScode solo instala la extension C/C++**
+**Si tienes VScode instala la extension C/C++**
