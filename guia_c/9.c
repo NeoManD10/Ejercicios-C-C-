@@ -10,27 +10,24 @@
 #include <stdio.h>
 
 int main(){
-    int ancho,i,j,aux,ast=1,aux2=0;
+    int largo,i,j,aux,ast=1,aux2=0;
 
-    printf("Ancho de base del triangulo: "); scanf("%i", &ancho);
+    printf("Largo del triangulo: "); scanf("%i", &largo);
 
-    aux = ancho - 1;
+    aux = largo - 1;
  
-    for (i = 0; i < ancho; i++){
+    for (i = 0; i < largo; i++){
         for (j = 0; j < aux ; j++){
             printf(" ");
         }
-
-        if (j == aux){
-                while (aux2 < ast ){
-                   printf("*");
-                   aux2++;
-                }
-                aux2 = 0;
-                ast = ast + 2;
-                printf("\n");
-            }
-            aux--;
+        while (aux2 < ast ){
+            printf("*");
+            aux2++;
+        }
+        aux2 = 0;
+        ast = ast + 2;
+        printf("\n");
+        aux--;
     }
 
     return 0;
