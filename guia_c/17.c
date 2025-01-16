@@ -1,5 +1,1 @@
-/*Crea un programa que permita:
-
-    Agregar productos con nombre, cantidad y precio.
-    Buscar un producto por su nombre.
-    Mostrar el inventario completo. Utiliza estructuras (struct) para representar los productos.*/
+/*Escribe un programa que convierta un número entre sistemas binario, octal, decimal y hexadecimal.*/
