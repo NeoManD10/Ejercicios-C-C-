@@ -1,6 +1,7 @@
 # Ejercicios-C-C-
 
-Este es un repositorio privado en donde tengo algunos ejercicios hechos en C
+Este es un repositorio privado en donde tengo algunos ejercicios hechos en C.
+
 Esto es netamente para guardar mis cosas y documentar mi avance.
 Todo por **diversion**.
 
