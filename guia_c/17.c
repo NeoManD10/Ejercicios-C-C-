@@ -9,11 +9,17 @@ int main(){
 
     printf("Ingresa un numero: "); scanf("%i", &num);
 
-    printf("\nSelecciona el sistema numerico de salida: "); scanf("%i", &salida);
+    printf("\n1. Binario.");
+    printf("\n2. Octal. "); 
+    printf("\n3. Decimal. "); 
+    printf("\n4. Hexadecimal. "); 
+    printf("\n\nSelecciona el sistema numerico de salida: "); scanf("%i", &salida);
+    
+
 
         switch (salida)
     {
-    case 1: // binario
+    case 1 : // binario
         binario(num);
         printf("\n");
         break;
@@ -50,5 +56,10 @@ void binario (int numero){
         }
         numero = numero / 2;
     }
+    // Imprimir el binario en el orden correcto
+    for (int j = i - 1; j >= 0; j--) {
+        printf("%d", array[j]);
+    }
+    printf("\n");
     // 1111110
 }
